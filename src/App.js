@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router } from 'react-router-dom'
+import "./App.css";
+import Header from "./components/Header";
+import About from "./components/About";
+import Shop from "./components/Shop";
+import Menu from "./components/Menu";
+import CountList from './components/Counter/CountList';
+import { countsData } from './components/Counter/Data';
+import EventList from './components/Price/EventList'
+import { eventsData } from "./components/Price/Data";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return ( 
+      <>
+        <Router>
+        <Header />
+        <About />
+        <Shop />
+        <Menu />
+        <CountList data={countsData}/>
+        <EventList data={eventsData}/>
+        </Router>
+      </>
+    );
 }
 
-export default App;
+export default App; 
+

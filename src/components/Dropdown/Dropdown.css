@@ -1,0 +1,30 @@
+.dropdown-menu {
+    background: rgba(128, 128, 128, 0.3);
+    width: 230px;
+    position: absolute;
+    top: 70px;
+    list-style: none;
+    text-align: start;
+}
+
+.dropdown-menu li {
+    cursor: pointer;
+    font-size: 14px;
+    padding: 12px 15px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+    text-transform: none;
+}
+
+.dropdown-menu li:hover {
+    background: tomato;
+}
+
+.dropdown-menu.clicked {
+    display: none;
+}
+
+@media screen and (max-width: 960px) {
+    .fa-chevron-down {
+        display: none;
+    }
+}
