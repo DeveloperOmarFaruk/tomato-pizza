@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tomato-pizza/static/css/main.7ec3a4b5.chunk.css",
+    "main.js": "/tomato-pizza/static/js/main.b515e237.chunk.js",
+    "main.js.map": "/tomato-pizza/static/js/main.b515e237.chunk.js.map",
+    "runtime-main.js": "/tomato-pizza/static/js/runtime-main.539ae75f.js",
+    "runtime-main.js.map": "/tomato-pizza/static/js/runtime-main.539ae75f.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/tomato-pizza/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.1fca201e.chunk.js": "/tomato-pizza/static/js/2.1fca201e.chunk.js",
+    "static/js/2.1fca201e.chunk.js.map": "/tomato-pizza/static/js/2.1fca201e.chunk.js.map",
+    "index.html": "/tomato-pizza/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/tomato-pizza/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.7ec3a4b5.chunk.css.map": "/tomato-pizza/static/css/main.7ec3a4b5.chunk.css.map",
+    "static/js/2.1fca201e.chunk.js.LICENSE.txt": "/tomato-pizza/static/js/2.1fca201e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tomato-pizza/static/media/bg.38f4b351.jpg",
+    "static/media/clients.cca8e8f4.png": "/tomato-pizza/static/media/clients.cca8e8f4.png",
+    "static/media/delivery.354262e7.png": "/tomato-pizza/static/media/delivery.354262e7.png",
+    "static/media/employee.6ae3a363.png": "/tomato-pizza/static/media/employee.6ae3a363.png",
+    "static/media/pizza.0a62753a.jpg": "/tomato-pizza/static/media/pizza.0a62753a.jpg",
+    "static/media/pizza.19859826.png": "/tomato-pizza/static/media/pizza.19859826.png",
+    "static/media/pizza1.a84ae921.png": "/tomato-pizza/static/media/pizza1.a84ae921.png",
+    "static/media/pizza2.c40182b3.png": "/tomato-pizza/static/media/pizza2.c40182b3.png",
+    "static/media/pizza3.85dc67ec.png": "/tomato-pizza/static/media/pizza3.85dc67ec.png",
+    "static/media/pizza4.f03c9d6b.png": "/tomato-pizza/static/media/pizza4.f03c9d6b.png",
+    "static/media/pizza5.cb67f4d4.png": "/tomato-pizza/static/media/pizza5.cb67f4d4.png",
+    "static/media/pizza6.6f6d5bf8.png": "/tomato-pizza/static/media/pizza6.6f6d5bf8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.539ae75f.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.1fca201e.chunk.js",
+    "static/css/main.7ec3a4b5.chunk.css",
+    "static/js/main.b515e237.chunk.js"
+  ]
+}
